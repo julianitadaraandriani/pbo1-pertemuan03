@@ -1,4 +1,4 @@
-package OperasiString;
+package Operator;
 
 public class OperasiString {
     public static void main(String[] args) {

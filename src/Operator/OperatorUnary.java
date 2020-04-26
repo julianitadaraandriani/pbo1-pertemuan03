@@ -1,4 +1,4 @@
-package OperatorUnary;
+package Operator;
 
 public class OperatorUnary {
   public static void main(String[] args) {
